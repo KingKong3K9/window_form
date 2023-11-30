@@ -1,0 +1,7 @@
+D:\visualstudio\code\practice_window10\practice_window10\bin\Debug\practice_window10.exe.config
+D:\visualstudio\code\practice_window10\practice_window10\bin\Debug\practice_window10.exe
+D:\visualstudio\code\practice_window10\practice_window10\bin\Debug\practice_window10.pdb
+D:\visualstudio\code\practice_window10\practice_window10\obj\Debug\practice_window10.csproj.AssemblyReference.cache
+D:\visualstudio\code\practice_window10\practice_window10\obj\Debug\practice_window10.csproj.CoreCompileInputs.cache
+D:\visualstudio\code\practice_window10\practice_window10\obj\Debug\practice_window10.exe
+D:\visualstudio\code\practice_window10\practice_window10\obj\Debug\practice_window10.pdb

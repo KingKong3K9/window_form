@@ -1,0 +1,7 @@
+D:\visualstudio\code\practice_window9\practice_window9\bin\Debug\practice_window9.exe.config
+D:\visualstudio\code\practice_window9\practice_window9\bin\Debug\practice_window9.exe
+D:\visualstudio\code\practice_window9\practice_window9\bin\Debug\practice_window9.pdb
+D:\visualstudio\code\practice_window9\practice_window9\obj\Debug\practice_window9.csproj.AssemblyReference.cache
+D:\visualstudio\code\practice_window9\practice_window9\obj\Debug\practice_window9.csproj.CoreCompileInputs.cache
+D:\visualstudio\code\practice_window9\practice_window9\obj\Debug\practice_window9.exe
+D:\visualstudio\code\practice_window9\practice_window9\obj\Debug\practice_window9.pdb
