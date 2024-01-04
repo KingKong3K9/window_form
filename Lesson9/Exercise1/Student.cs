@@ -14,9 +14,9 @@ namespace Exercise1
     
     public partial class Student
     {
-        public int studentID { get; set; }
-        public string studentName { get; set; }
-        public string studentGender { get; set; }
-        public string Address_ { get; set; }
+        public int StudentID { get; set; }
+        public string StudentName { get; set; }
+        public string StudentGender { get; set; }
+        public string Address { get; set; }
     }
 }

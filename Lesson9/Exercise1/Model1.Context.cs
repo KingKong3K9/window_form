@@ -13,10 +13,10 @@ namespace Exercise1
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Lesson9Entities : DbContext
+    public partial class StudentDBEntities : DbContext
     {
-        public Lesson9Entities()
-            : base("name=Lesson9Entities")
+        public StudentDBEntities()
+            : base("name=StudentDBEntities")
         {
         }
     

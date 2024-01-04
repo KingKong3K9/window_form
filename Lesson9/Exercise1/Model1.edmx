@@ -4,34 +4,34 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="Lesson9Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+      <Schema Namespace="StudentDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Student">
           <Key>
-            <PropertyRef Name="studentID" />
+            <PropertyRef Name="StudentID" />
           </Key>
-          <Property Name="studentID" Type="int" Nullable="false" />
-          <Property Name="studentName" Type="nvarchar" MaxLength="50" />
-          <Property Name="studentGender" Type="nvarchar" MaxLength="20" />
-          <Property Name="Address_" Type="nvarchar" MaxLength="50" />
+          <Property Name="StudentID" Type="int" Nullable="false" />
+          <Property Name="StudentName" Type="nvarchar" MaxLength="50" />
+          <Property Name="StudentGender" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address" Type="nvarchar" MaxLength="100" Nullable="false" />
         </EntityType>
-        <EntityContainer Name="Lesson9ModelStoreContainer">
+        <EntityContainer Name="StudentDBModelStoreContainer">
           <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
         </EntityContainer>
       </Schema>
     </edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
-      <Schema Namespace="Lesson9Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <Schema Namespace="StudentDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="Student">
           <Key>
-            <PropertyRef Name="studentID" />
+            <PropertyRef Name="StudentID" />
           </Key>
-          <Property Name="studentID" Type="Int32" Nullable="false" />
-          <Property Name="studentName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-          <Property Name="studentGender" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
-          <Property Name="Address_" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="StudentID" Type="Int32" Nullable="false" />
+          <Property Name="StudentName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="StudentGender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
         </EntityType>
-        <EntityContainer Name="Lesson9Entities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="StudentDBEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Students" EntityType="Self.Student" />
         </EntityContainer>
       </Schema>
@@ -39,14 +39,14 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="Lesson9ModelStoreContainer" CdmEntityContainer="Lesson9Entities">
+        <EntityContainerMapping StorageEntityContainer="StudentDBModelStoreContainer" CdmEntityContainer="StudentDBEntities">
           <EntitySetMapping Name="Students">
-            <EntityTypeMapping TypeName="Lesson9Model.Student">
+            <EntityTypeMapping TypeName="StudentDBModel.Student">
               <MappingFragment StoreEntitySet="Student">
-                <ScalarProperty Name="studentID" ColumnName="studentID" />
-                <ScalarProperty Name="studentName" ColumnName="studentName" />
-                <ScalarProperty Name="studentGender" ColumnName="studentGender" />
-                <ScalarProperty Name="Address_" ColumnName="Address_" />
+                <ScalarProperty Name="StudentID" ColumnName="StudentID" />
+                <ScalarProperty Name="StudentName" ColumnName="StudentName" />
+                <ScalarProperty Name="StudentGender" ColumnName="StudentGender" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
