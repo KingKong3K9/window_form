@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Menu x:Name="Menu1" Margin="50,60,609,324">
+        <Menu x:Name="Menu1" Margin="50,60,609,324" Height="50">
             <MenuItem Header="_File" Click="MenuItem_Click" Height="31">
                 <MenuItem Header="_Open" IsCheckable="true" InputGestureText="Ctrl+O">
                     <MenuItem.ToolTip>
@@ -28,8 +28,6 @@
                     </MenuItem>
                 </MenuItem>
             </MenuItem>
-            
         </Menu>
-
     </Grid>
 </Window>

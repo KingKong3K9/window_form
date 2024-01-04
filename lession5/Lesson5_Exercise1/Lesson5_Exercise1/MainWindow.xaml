@@ -7,16 +7,24 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox Name="listBox1" Margin="171,65,330,119">
+        <ListBox Name="listBox1" Margin="170,61,292,170" RenderTransformOrigin="0.5,0.5">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.287"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.75"/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
             <ListBoxItem Background="#FFE84414">
                 <CheckBox Name="CoffieCheckBox">
                     <StackPanel Orientation="Horizontal">
-                    <Image Source="/Coffee.jpg" Height="30"></Image>
-                    <TextBlock Text="Coffie"></TextBlock>
-                </StackPanel>
+                        <Image Source="/Coffee.jpg" Height="30"></Image>
+                        <TextBlock Text="Coffie"></TextBlock>
+                    </StackPanel>
                 </CheckBox>
             </ListBoxItem>
-            <ListBoxItem Background="Coral">
+            <ListBoxItem Background="Yellow" Selected="ListBoxItem_Selected">
                 <CheckBox Name="TeaCheckBox">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/tea.jpg" Height="30"></Image>
@@ -24,7 +32,7 @@
                     </StackPanel>
                 </CheckBox>
             </ListBoxItem>
-            <ListBoxItem Background="Beige">
+            <ListBoxItem Background="Orange">
                 <CheckBox Name="JuiceCheckBox">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/orangeJuice.jpg" Height="30"></Image>
@@ -40,7 +48,7 @@
                     </StackPanel>
                 </CheckBox>
             </ListBoxItem>
-            <ListBoxItem Background="Chartreuse">
+            <ListBoxItem Background="RosyBrown">
                 <CheckBox Name="IceTeaCheckBox">
                     <StackPanel Orientation="Horizontal">
                         <Image Source="/IceTea.jpeg" Height="30"></Image>
@@ -57,7 +65,7 @@
                 </CheckBox>
             </ListBoxItem>
         </ListBox>
-        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="171,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Left" Margin="171,42,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="140"/>
         <Button Content="Add Item" HorizontalAlignment="Left" Margin="319,40,0,0" VerticalAlignment="Top" Width="81" Click="Button_Click"/>
         <Button Content="Remove Item" HorizontalAlignment="Left" Margin="406,40,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click_1"/>
     </Grid>

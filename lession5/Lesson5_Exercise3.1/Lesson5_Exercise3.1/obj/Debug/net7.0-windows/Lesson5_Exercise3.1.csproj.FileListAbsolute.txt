@@ -18,3 +18,23 @@ F:\Programming\File programming\C#\C-Sharp clone\C-sharp-Practice-HomeWork\Lesso
 F:\Programming\File programming\C#\C-Sharp clone\C-sharp-Practice-HomeWork\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.pdb
 F:\Programming\File programming\C#\C-Sharp clone\C-sharp-Practice-HomeWork\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.genruntimeconfig.cache
 F:\Programming\File programming\C#\C-Sharp clone\C-sharp-Practice-HomeWork\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\ref\Lesson5_Exercise3.1.dll
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\bin\Debug\net7.0-windows\Lesson5_Exercise3.1.exe
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\bin\Debug\net7.0-windows\Lesson5_Exercise3.1.deps.json
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\bin\Debug\net7.0-windows\Lesson5_Exercise3.1.runtimeconfig.json
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\bin\Debug\net7.0-windows\Lesson5_Exercise3.1.dll
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\bin\Debug\net7.0-windows\Lesson5_Exercise3.1.pdb
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1_MarkupCompile.cache
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1_MarkupCompile.lref
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.g.resources
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.AssemblyInfoInputs.cache
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.AssemblyInfo.cs
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.csproj.CoreCompileInputs.cache
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.dll
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\refint\Lesson5_Exercise3.1.dll
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.pdb
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\Lesson5_Exercise3.1.genruntimeconfig.cache
+C:\Users\khang\OneDrive\Tài liệu\Visualcode\githup_HKhang\lession5\Lesson5_Exercise3.1\Lesson5_Exercise3.1\obj\Debug\net7.0-windows\ref\Lesson5_Exercise3.1.dll

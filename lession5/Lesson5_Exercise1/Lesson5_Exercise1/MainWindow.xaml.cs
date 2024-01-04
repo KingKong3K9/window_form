@@ -34,5 +34,10 @@ namespace Lesson5_Exercise1
         {
             listBox1.Items.RemoveAt(listBox1.Items.IndexOf(listBox1.SelectedItem));
         }
+
+        private void ListBoxItem_Selected(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

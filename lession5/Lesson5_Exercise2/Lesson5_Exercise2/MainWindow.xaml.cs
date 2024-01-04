@@ -27,7 +27,7 @@ namespace Lesson5_Exercise2
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Menu item clicked");
+            MessageBox.Show("Menu item was opened");
         }
     }
 }

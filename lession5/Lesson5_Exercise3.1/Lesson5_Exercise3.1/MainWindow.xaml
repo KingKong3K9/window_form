@@ -19,15 +19,15 @@
 
             <TabItem Header="Hotels">
                 <Grid Background="#FFE5E5E5">
-                    <Image HorizontalAlignment="Left" Height="100" Margin="191,66,0,0" VerticalAlignment="Top" Width="100" Source="/tải xuống.jpg"/>
+                    <Image HorizontalAlignment="Left" Height="130" Margin="191,66,0,0" VerticalAlignment="Top" Width="212" Source="/cloud-server1_w800_h800.jpg"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Contact Us">
                 <Grid Background="#FFE5E5E5">
                     <TextBox HorizontalAlignment="Left" Margin="100,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
                     <TextBox HorizontalAlignment="Left" Margin="100,0,0,0" TextWrapping="Wrap" Text ="" VerticalAlignment="Center" Width="120"/>
-                    <Label Content="Name:" HorizontalAlignment="Left" Margin="35,75,0,0" VerticalAlignment="Top"/>
-                    <Label Content="Email:" HorizontalAlignment="Left" Margin="35,0,0,0" VerticalAlignment="Center"/>
+                    <Label Content="Name:" HorizontalAlignment="Left" Margin="51,75,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Email:" HorizontalAlignment="Left" Margin="51,0,0,0" VerticalAlignment="Center"/>
 
                 </Grid>
             </TabItem>

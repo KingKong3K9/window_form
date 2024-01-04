@@ -9,10 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="cloud-server1_w800_h800.jpg" />
     <None Remove="tải xuống.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="cloud-server1_w800_h800.jpg" />
     <Resource Include="tải xuống.jpg" />
   </ItemGroup>
 
